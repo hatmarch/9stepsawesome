@@ -60,6 +60,8 @@ Download & Install Minishift Cluster
 ----
 $ curl -LO https://github.com/minishift/minishift/releases/download/v1.33.0/minishift-1.33.0-darwin-amd64.tgz
 $ tar -xvf minishift-1.33.0-darwin-amd64.tgz 
+# or
+$ brew cask install minishift
 ----
 More Minishift releases https://github.com/minishift/minishift/releases
 
